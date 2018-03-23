@@ -11,3 +11,5 @@ git config user.name "Amy"
 
 pour créer une nouvelle branche
 git checkout -b joe
+
+git log pour voir l'historique des commit
